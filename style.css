@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    
+}
+header{
+    background-color: red;
+    height:120px;
+}
+img{
+    height:80px ;
+    width: 200px;
+    margin:0px;
+    padding: 10px;
+}
+.left{
+    background-color: aliceblue;
+    color: black;
+    font-size: 22px;
+    display: inline;
+    margin: 5px 10px;
+
+    overflow: auto;
+}
+.p{
+    margin-left:24px;
+}
+ul{
+   margin:40px;
+}
+li{
+    float: left;
+}
+.rightone{
+    float:right;
+    overflow: auto;
+}
+.righttwo{
+    float: right;
+    overflow: auto;
+    
+}
